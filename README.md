@@ -1,11 +1,9 @@
 ### Hello, I'm Dax 👋
 
-## I'm a Student, Investor, and Developer!!
+## I'm a Student studying Computer Science!!
 
-- 🌱 I’m currently learning CS 🤣
-- 👯 I’m looking for internship to gain experince
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I think pineapple belongs on pizza 🍕
+- 🌱 I’m currently learning Swift for iOS development 🤣
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
