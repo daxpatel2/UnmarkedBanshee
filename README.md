@@ -1,5 +1,4 @@
-### Hello, I'm Dax 👋
-
+### Hello
 ## I'm a Student studying Computer Science!!
 
 - 🌱 I’m currently learning Swift for iOS development 🤣
