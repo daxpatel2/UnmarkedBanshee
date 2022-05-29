@@ -1,7 +1,7 @@
-### Hello
-## I'm a Student studying Computer Science!!
+### Hello There 
+## I'm a Student studying Computer Science at PSU.
 
-- 🌱 I’m currently learning Swift for iOS development 🤣
+- 🌱 I’m currently learning Java 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
