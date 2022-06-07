@@ -1,8 +1,9 @@
 ### Hey There 👋 
 ## I'm a student studying computer science at Penn State.
 
-- 🌱 I’m currently learning Java 🤣
+- 🌱 Currently Learning: JAVA
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- ✨ Fun Fact: I like working out
 
 ### Connect with me:
 
