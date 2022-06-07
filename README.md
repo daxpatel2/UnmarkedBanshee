@@ -1,5 +1,5 @@
-### Hello There 
-## I'm a Student studying Computer Science at PSU.
+### Hey There 👋 
+## I'm a student studying computer science at Penn State.
 
 - 🌱 I’m currently learning Java 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
