@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dap5895@psu.edu**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **I like pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
