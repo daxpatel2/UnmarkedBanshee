@@ -1,7 +1,7 @@
-[![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
+![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Dax Patel</h1>
 <h3 align="center">A student learning fullstack development.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.codingwithslinky.com/GIFs/codingDino.gif>
+
 
 <p align="left"> <a href="https://twitter.com/algorithmpirate" target="blank"><img src="https://img.shields.io/twitter/follow/algorithmpirate?logo=twitter&style=for-the-badge" alt="algorithmpirate" /></a> </p>
 
