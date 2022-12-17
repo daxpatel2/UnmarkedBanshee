@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python, Flask**
+- 💬 Ask me about **Python, Flask, Java GUI**
 
 - 📫 How to reach me **dap5895@psu.edu**
 
