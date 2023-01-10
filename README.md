@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/algorithmpirate" target="blank"><img src="https://img.shields.io/twitter/follow/algorithmpirate?logo=twitter&style=for-the-badge" alt="algorithmpirate" /></a> </p>
 
-- 🔭 I’m currently working on [Clip-Clip](https://github.com/UnmarkedBanshee/Clip-Clip-App)
+- 🔭 I’m currently working on [Web3](https://github.com/UnmarkedBanshee/Web3)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Python, Flask, Java GUI**
+- 💬 Ask me about **Python, Flask, Java GUI, Blockchain**
 
 - 📫 How to reach me **dap5895@psu.edu**
 
