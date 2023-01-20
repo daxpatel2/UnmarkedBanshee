@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/algorithmpirate" target="blank"><img src="https://img.shields.io/twitter/follow/algorithmpirate?logo=twitter&style=for-the-badge" alt="algorithmpirate" /></a> </p>
 
-- 🔭 I’m currently working on [Web3](https://github.com/UnmarkedBanshee/Web3)
+- 🔭 I’m currently working on [ChatGPT + Python Automation](https://github.com/UnmarkedBanshee/Web3)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Python, Flask, Java GUI, Blockchain**
+- 💬 Ask me about **Python, Web3, Blockchain**
 
 - 📫 How to reach me **dap5895@psu.edu**
-
-- ⚡ Fun fact **I like pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
