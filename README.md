@@ -8,7 +8,7 @@ I'm a student who loves working with a team, I bring a dedicated and collaborati
 #
 
 ### <img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="50"> Status
-- 🔭 I’m currently working on [ChatGPT + Python Automation](https://github.com/UnmarkedBanshee/Web3)
+- 🔭 I’m currently working on **Proximity Chat**
 
 - 🌱 I’m currently learning **JavaScript**
 
