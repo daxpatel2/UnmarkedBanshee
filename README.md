@@ -14,8 +14,6 @@ I'm a student who loves working with a team, I bring a dedicated and collaborati
 
 - 💬 Ask me about **Python, Web3, Blockchain**
 
-- 📫 How to reach me **dap5895@psu.edu**
-
 #
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages and Tools
