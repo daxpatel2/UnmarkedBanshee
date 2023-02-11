@@ -1,4 +1,6 @@
-<h1> 🌋 Dax Patel
+<h1> 👻 Dax Patel
+  
+ **`Computer Craftsman (Student/Developer/Learner)`**
 
 <h1 align="center">Hi, I'm Dax Patel 👋</h1>
 <h3 align="center">A student learning fullstack development.</h3>
