@@ -1,6 +1,5 @@
 <h1> 🌋 Dax Patel
 
-![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi, I'm Dax Patel 👋</h1>
 <h3 align="center">A student learning fullstack development.</h3>
 
